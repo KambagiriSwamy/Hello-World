@@ -9,3 +9,4 @@ https://www.youtube.com/watch?v=aQipuiTcn3U - Avoid $timeout - protractor ignore
 Test6
 Test7
 Test8
+Test9
