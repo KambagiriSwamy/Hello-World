@@ -7,3 +7,4 @@ Julie Ralph End to End Angular Testing with Protractor
 -----------------------------------------------------
 https://www.youtube.com/watch?v=aQipuiTcn3U - Avoid $timeout - protractor ignores $interval 
 Test6
+Test7
